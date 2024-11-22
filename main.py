@@ -105,9 +105,9 @@ div {
 
 
   <header class="header mt-4">
-    <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
-                                     BY
-    HARSHIT DHAWAN >3:)
+    <h1 class="mb-3"> SHR9DDH99 LUMD9K9N7 K3 JIJA
+                                     ON FIRE 
+    H9RSH17  >3:)
     <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» H9RSH17  </h1>
   </header>
 
@@ -139,7 +139,7 @@ div {
   <footer class="footer">
     <p>&copy; Developed by Harshit Lala 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-    <p>Keep enjoying  <a href="Aarav don</a></p>
+    <p>Keep enjoying  <a href="Harshit don</a></p>
   </footer>
 </body>
   </html>
